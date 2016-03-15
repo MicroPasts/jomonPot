@@ -23,11 +23,12 @@ If you are interested in what our 3D completed models look like, please have a l
 
 ### This project is on behalf of:
 
-University College London
-Sainsbury Institute for the Study of Japanese Arts and Cultures
-The British Museum
+University College London, Sainsbury Institute for the Study of Japanese Arts and Cultures and The British Museum
 
 [![The British Museum logo](https://finds.org.uk/assets/logos/bm_logo.png)](http://britishmuseum.org)
+[![Sainsbury Logo](https://micropasts-other.s3.amazonaws.com/other/sainsburyLogo.jpg)](http://www.sainsbury-institute.org)
+[![UCL logo](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)](http://ucl.ac.uk/archaeology)
+
 
 ### Find the code on GitHub
 
